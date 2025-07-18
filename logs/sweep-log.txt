@@ -57,3 +57,4 @@ damacm1147       ttys002      Jul 18 14:50
 /usr/sbin/traceroute
 /bin/ps
 /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/MacOS/ARDAgent
+/System/Volumes/Data/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/MacOS/ARDAgent
